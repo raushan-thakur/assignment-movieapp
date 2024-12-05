@@ -22,4 +22,25 @@ A movie search application built with **React.js** and the **TMDB API**, offerin
 - **Frontend**: React.js, Tailwind CSS  
 - **State Management**: Redux.js  
 - **API**: TMDB API  
-- **Libraries**:  
+- **Libraries**:
+
+## Live Link
+
+https://assignment-movieapp-inno.vercel.app/
+
+## Preview 
+<img width="1280" alt="pg-1" src="https://github.com/user-attachments/assets/49aa3620-4289-41a2-9634-4abf8acc3c6b">
+
+<br>
+
+<img width="1280" alt="pg-2" src="https://github.com/user-attachments/assets/a2a9a016-f971-4cbf-bf63-d035694ec6d5">
+
+<br>
+
+<img width="1280" alt="pg-3" src="https://github.com/user-attachments/assets/ba35d4dd-514c-43a4-ae46-b60e032a9ed5">
+
+<br>
+
+<img width="1280" alt="pg-4" src="https://github.com/user-attachments/assets/6247f5e9-c43d-4721-8262-df573504cd9a">
+
+<br>
